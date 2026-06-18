@@ -2,6 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:2B1055,40:7597DE,100:F4A261&text=HXTSUKX6E&fontSize=56&fontAlign=50&fontAlignY=38&desc=Java%20%7C%20Kotlin%20Developer&descAlign=50&descAlignY=60&animation=fadeIn" width="100%" />
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,spring,postgres,docker,kafka,redis,git,idea" />
+</p>
 
 <div align="center">
   <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=HXTSUKX6E&theme=tokyo-night&hide_border=true&radius=16" />
