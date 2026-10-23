@@ -5,3 +5,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,kotlin,spring,postgres,docker,kafka,redis,git,idea,kubernetes,grafana" />
 </p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HXTSUKX6E&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HXTSUKX6E&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
