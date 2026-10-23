@@ -10,3 +10,9 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=HXTSUKX6E&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HXTSUKX6E&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HXTSUKX6E&theme=tokyonight&hide_border=true" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2B1055,40:7597DE,100:F4A261&section=footer" width="100%" />
