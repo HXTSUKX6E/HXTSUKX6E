@@ -32,4 +32,6 @@
   <img src="https://img.shields.io/badge/📍_Location-Москва-2B1055?style=for-the-badge" />
 </p>
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/HXTSUKX6E?theme=dark&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/u/HXTSUKX6E/)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2B1055,40:7597DE,100:F4A261&section=footer" width="100%" />
