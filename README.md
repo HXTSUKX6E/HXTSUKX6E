@@ -17,9 +17,6 @@
 <h3 align="center">📫 Связаться со мной</h3>
 
 <p align="center">
-  <a href="https://t.me/HXTSUKX6E">
-    <img src="https://img.shields.io/badge/Telegram-HXTSUKX6E-2B1055?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
   <a href="https://t.me/lownay">
     <img src="https://img.shields.io/badge/Telegram-lownay-7597DE?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
